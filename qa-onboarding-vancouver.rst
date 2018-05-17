@@ -1,4 +1,4 @@
-. display in 168x124
+. display in 68x24
 
 .. transition:: dissolve
    :duration: 0.4
