@@ -21,6 +21,7 @@ About us
 * Ghanshyam Mann (IRC: gmann)
 * Masayuki Igawa (IRC: masayukig)
 * Matthew Treinish (IRC: mtreinish)
+* Felipe Monteiro (IRC: felipemonteiro)
 
 Outlines:
 =========
@@ -32,18 +33,28 @@ Outlines:
 Brief introduction to OpenStack QA
 ===================================
 
+* Official Mission Statement-
+
+.. code::
+
+ Develop, maintain, and initiate tools and plans to ensure the upstream
+ stability and quality of OpenStack, and its release readiness at any
+ point during the release cycle.
+
+
 * https://wiki.openstack.org/wiki/QA
 
 Scope of QA Projects and team
 ============================
 
 * Each project team owns their QA
-
-Projects Scope
---------------
-
-What all things we do as QA team
---------------------------------
+* Serve the OpenStack community
+* Drive testing best practices
+* Maintain test tools and frameworks
+* Keep the gate running smoothly
+* Support interoperability testing efforts
+* Cross Community collaboration on testing tools etc
+* Open for new testing ideas/projects
 
 Dev & Test environment
 ======================
@@ -87,7 +98,7 @@ Test results
 What we are/will be working in Rocky and beyond
 ===============================================
 
-* https://governance.openstack.org/tc/reference/projects/quality-assurance.html
+* https://github.com/ghanshyammann/qa-updates-vancouver
 
 Current ongoing activities
 -------------------------
